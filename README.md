@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Nidhi..
 - 👀 I love to explore technology and learn concepts related to software development :)
 - 🌱 I’m currently learning backend development. 
-- 💞️ I’m looking to collaborate on javascripts and nodejs projects.
+- 💞️ I’m looking to collaborate on java based projects.
 - 📫 Reach me at nidhij1503@gmail.com
 
 <!---
